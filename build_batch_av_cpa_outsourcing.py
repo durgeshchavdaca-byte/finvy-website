@@ -69,7 +69,7 @@ PAGES = [
             ("Does data leave our systems?", "It does not have to. We can work entirely on your servers or cloud software through remote access, which keeps files in your environment."),
             ("How is pricing set?", "Fixed scope, agreed per engagement after a sample review. " + CONTACT),
         ],
-        related=[("us-cpa-firm-outsource-tax-returns-india-section-7216-consent-checklist.html", "Section 7216 outsourcing checklist"), ("indian-ca-for-clients-in-usa.html", "Indian CA for clients in the USA")],
+        related=[("us-cpa-firm-outsource-tax-returns-india-section-7216-consent-checklist.html", "Section 7216 outsourcing checklist"), ("us-tax-season-2027-deadlines-cpa-firms-outsourcing-plan.html", "2027 tax season deadlines and set-up timeline"), ("indian-ca-for-clients-in-usa.html", "Indian CA for clients in the USA")],
         cta_h="Need capacity this busy season?", cta_b=CONTACT,
         keywords="outsourced tax preparation for CPA firms, offshore tax preparation India, outsource 1040 preparation India, CPA firm outsourcing India, white label tax preparation, outsourced bookkeeping for CPA firms, offshore accounting staff for CPA firms",
         desc="Outsourced tax preparation, accounting and bookkeeping for US CPA firms from an Indian CA firm: Forms 1040, 1065, 1120-S, 1120 and 1099s, QuickBooks and Xero bookkeeping and year-end workpapers, with Section 7216, AICPA and FTC Safeguards Rule requirements covered.",
