@@ -305,6 +305,7 @@ BOXES = {
     "clubbing": ("Gifting within the family?", 'Gifting to a spouse or child? See <a href="clubbing-of-income-india-spouse-minor-child-section-64-gift-to-wife-1500-exemption-huf-2026.html">clubbing of income: spouse, minor child and HUF</a>.'),
     "familytrust": ("Planning succession?", 'Planning succession? See <a href="family-trust-taxation-india-private-trust-specific-discretionary-maximum-marginal-rate-will-vs-trust-2026.html">family trust taxation and will vs trust</a>.'),
     "reitinvit": ("REIT or InvIT income?", 'Holding REIT or InvIT units? See <a href="reit-invit-taxation-india-distribution-interest-dividend-repayment-of-debt-194lba-capital-gains-nri-2026.html">how REIT and InvIT distributions are taxed</a>.'),
+    "vrstax": ("Taking VRS or retiring?", 'Taking VRS or retiring? See <a href="vrs-compensation-tax-india-5-lakh-exemption-section-10-10c-commuted-pension-gratuity-retirement-benefits-2026.html">VRS compensation tax and retirement benefits</a>.'),
     "tri": ("Founders in India, US parent, Indian subsidiary?", 'A founder-controlled US parent that owns an Indian company usually needs FEMA approval (Schedule III): <a href="triangular-structure-indian-founders-us-parent-indian-subsidiary-odi-schedule-iii-2026.html">the triangular structure explained</a>.'),
     "ifscl": ("Listing in GIFT City?", 'Since 3 November 2026 Indian public companies can list equity instruments, including CCDs and preference shares, on IFSC exchanges: <a href="direct-listing-gift-ifsc-indian-company-equity-instruments-amendment-november-2026.html">what changed</a>.'),
     "gcc": ("Building a captive team in India?", 'Entity, the 2026 safe harbour (15.5% up to INR 2,000 crore) and the compliance list: <a href="gcc-global-capability-centre-india-setup-us-company-safe-harbour-2026.html">setting up a GCC in India</a>.'),
@@ -333,6 +334,7 @@ BOXES = {
     "fins": ("Still holding a life policy from abroad?", f'It belongs in Schedule FA, and FAST-DS can cover a missed one: <a href="{INS}">foreign insurance policies for returning NRIs</a>.'),
 }
 TARGETS = {
+    "leave-encashment-tax-exemption-section-10-10aa-25-lakh-new-regime-retirement-resignation-2026.html": ["vrstax"],
     "clubbing-of-income-india-spouse-minor-child-section-64-gift-to-wife-1500-exemption-huf-2026.html": ["familytrust"],
     "nri-will-india-probate-not-mandatory-mumbai-chennai-kolkata-succession-legal-heir-certificate-2026.html": ["familytrust"],
     "huf-taxation-india-2026-tax-slab-new-regime-benefits-exemption-limit-no-87a-rebate.html": ["clubbing"],
@@ -645,7 +647,7 @@ TARGETS = {
     "india-us-dtaa-withholding-rates.html": ["fts", "bvscalc", "fptcalc", "ussell", "f1tax"],
     "gst-reverse-charge-import-of-services-india-rcm-self-invoice-itc-2026.html": ["fts", "intgst", "gstrent"],
     "nri-form-10f-e-filing-mandatory-india-2026.html": ["uaenri", "nopedecl"],
-    "gratuity-calculator-new-labour-codes-2026.html": ["subben", "epf2026", "iwpf", "leaveenc", "esic"],
+    "gratuity-calculator-new-labour-codes-2026.html": ["subben", "epf2026", "iwpf", "leaveenc", "esic", "vrstax"],
     "esop-vs-rsu-vs-phantom-stock-india-us.html": ["subben", "frsu", "esopbb", "esoptax"],
     "gcc-global-capability-centre-india-setup-us-company-safe-harbour-2026.html": ["intgst", "fhub", "tola26", "masterfile", "doingbiz", "iwpf", "shapa"],
     "rule-96-10-omitted-retrospectively-exporters-igst-refund-circular-264-2026.html": ["intgst", "gstexp", "gstexportrefund"],
