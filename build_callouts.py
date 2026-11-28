@@ -306,6 +306,7 @@ BOXES = {
     "familytrust": ("Planning succession?", 'Planning succession? See <a href="family-trust-taxation-india-private-trust-specific-discretionary-maximum-marginal-rate-will-vs-trust-2026.html">family trust taxation and will vs trust</a>.'),
     "reitinvit": ("REIT or InvIT income?", 'Holding REIT or InvIT units? See <a href="reit-invit-taxation-india-distribution-interest-dividend-repayment-of-debt-194lba-capital-gains-nri-2026.html">how REIT and InvIT distributions are taxed</a>.'),
     "vrstax": ("Taking VRS or retiring?", 'Taking VRS or retiring? See <a href="vrs-compensation-tax-india-5-lakh-exemption-section-10-10c-commuted-pension-gratuity-retirement-benefits-2026.html">VRS compensation tax and retirement benefits</a>.'),
+    "gstadvance": ("GST on advances?", 'Taking customer advances? See <a href="gst-on-advance-received-services-goods-time-of-supply-receipt-voucher-refund-voucher-gstr-1-table-11-2026.html">GST on advance received: services vs goods</a>.'),
     "tri": ("Founders in India, US parent, Indian subsidiary?", 'A founder-controlled US parent that owns an Indian company usually needs FEMA approval (Schedule III): <a href="triangular-structure-indian-founders-us-parent-indian-subsidiary-odi-schedule-iii-2026.html">the triangular structure explained</a>.'),
     "ifscl": ("Listing in GIFT City?", 'Since 3 November 2026 Indian public companies can list equity instruments, including CCDs and preference shares, on IFSC exchanges: <a href="direct-listing-gift-ifsc-indian-company-equity-instruments-amendment-november-2026.html">what changed</a>.'),
     "gcc": ("Building a captive team in India?", 'Entity, the 2026 safe harbour (15.5% up to INR 2,000 crore) and the compliance list: <a href="gcc-global-capability-centre-india-setup-us-company-safe-harbour-2026.html">setting up a GCC in India</a>.'),
@@ -334,6 +335,7 @@ BOXES = {
     "fins": ("Still holding a life policy from abroad?", f'It belongs in Schedule FA, and FAST-DS can cover a missed one: <a href="{INS}">foreign insurance policies for returning NRIs</a>.'),
 }
 TARGETS = {
+    "gst-for-consultants-professionals-india-registration-threshold-18-percent-export-lut-reimbursement-pure-agent-2026.html": ["gstadvance"],
     "leave-encashment-tax-exemption-section-10-10aa-25-lakh-new-regime-retirement-resignation-2026.html": ["vrstax"],
     "clubbing-of-income-india-spouse-minor-child-section-64-gift-to-wife-1500-exemption-huf-2026.html": ["familytrust"],
     "nri-will-india-probate-not-mandatory-mumbai-chennai-kolkata-succession-legal-heir-certificate-2026.html": ["familytrust"],
@@ -372,7 +374,7 @@ TARGETS = {
     "startup-advisor-ahmedabad.html": ["gujaratpt"],
     "ca-firm-ahmedabad.html": ["gujaratpt"],
     "income-tax-gst-notice-reply-draft-letter-generator-free-tool-format-word.html": ["drc01c"],
-    "gst-return-filing-2026-due-dates-gstr-1-gstr-3b-qrmp-cmp-08-gstr-9-process-late-fee.html": ["drc01c", "gstconsultant", "einvoice", "gstinterest50", "jobwork"],
+    "gst-return-filing-2026-due-dates-gstr-1-gstr-3b-qrmp-cmp-08-gstr-9-process-late-fee.html": ["drc01c", "gstconsultant", "einvoice", "gstinterest50", "jobwork", "gstadvance"],
     "tds-default-notice-traces-default-summary-password-how-to-clear-short-payment-interest-late-fee-2026.html": ["tdscorrection"],
     "form-16a-now-form-131-tds-certificate-2026-download-traces-due-dates-form-130-vs-131.html": ["tdsdefault", "tdscorrection"],
     "ca-for-nri-in-india-nri-tax-consultant-online-pune-mumbai-delhi-bangalore-chennai-ahmedabad-hyderabad-2026.html": ["nrinotice"],
