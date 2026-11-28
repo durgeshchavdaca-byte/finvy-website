@@ -307,6 +307,7 @@ BOXES = {
     "reitinvit": ("REIT or InvIT income?", 'Holding REIT or InvIT units? See <a href="reit-invit-taxation-india-distribution-interest-dividend-repayment-of-debt-194lba-capital-gains-nri-2026.html">how REIT and InvIT distributions are taxed</a>.'),
     "vrstax": ("Taking VRS or retiring?", 'Taking VRS or retiring? See <a href="vrs-compensation-tax-india-5-lakh-exemption-section-10-10c-commuted-pension-gratuity-retirement-benefits-2026.html">VRS compensation tax and retirement benefits</a>.'),
     "gstadvance": ("GST on advances?", 'Taking customer advances? See <a href="gst-on-advance-received-services-goods-time-of-supply-receipt-voucher-refund-voucher-gstr-1-table-11-2026.html">GST on advance received: services vs goods</a>.'),
+    "usedcargst": ("Selling a business car?", 'Selling a business car? See <a href="gst-on-sale-of-used-car-by-company-registered-person-margin-scheme-18-percent-depreciated-value-notification-8-2018-2026.html">GST on sale of a used car: margin scheme at 18%</a>.'),
     "tri": ("Founders in India, US parent, Indian subsidiary?", 'A founder-controlled US parent that owns an Indian company usually needs FEMA approval (Schedule III): <a href="triangular-structure-indian-founders-us-parent-indian-subsidiary-odi-schedule-iii-2026.html">the triangular structure explained</a>.'),
     "ifscl": ("Listing in GIFT City?", 'Since 3 November 2026 Indian public companies can list equity instruments, including CCDs and preference shares, on IFSC exchanges: <a href="direct-listing-gift-ifsc-indian-company-equity-instruments-amendment-november-2026.html">what changed</a>.'),
     "gcc": ("Building a captive team in India?", 'Entity, the 2026 safe harbour (15.5% up to INR 2,000 crore) and the compliance list: <a href="gcc-global-capability-centre-india-setup-us-company-safe-harbour-2026.html">setting up a GCC in India</a>.'),
@@ -335,6 +336,7 @@ BOXES = {
     "fins": ("Still holding a life policy from abroad?", f'It belongs in Schedule FA, and FAST-DS can cover a missed one: <a href="{INS}">foreign insurance policies for returning NRIs</a>.'),
 }
 TARGETS = {
+    "gst-on-advance-received-services-goods-time-of-supply-receipt-voucher-refund-voucher-gstr-1-table-11-2026.html": ["usedcargst"],
     "gst-for-consultants-professionals-india-registration-threshold-18-percent-export-lut-reimbursement-pure-agent-2026.html": ["gstadvance"],
     "leave-encashment-tax-exemption-section-10-10aa-25-lakh-new-regime-retirement-resignation-2026.html": ["vrstax"],
     "clubbing-of-income-india-spouse-minor-child-section-64-gift-to-wife-1500-exemption-huf-2026.html": ["familytrust"],
@@ -422,7 +424,7 @@ TARGETS = {
     "section-148-148a-reassessment-notice-response-india.html": ["noticefmt", "itappeal", "pen270a", "cashdeposit", "staydemand", "hvtnotice", "itsearch132"],
     "what-is-input-tax-credit-and-how-to-claim-india-gst.html": ["gstrent", "gstcomp", "gstreturn", "blocked175", "invertedduty"],
     "tds-on-rent-limit-fy-2026-27-section-393-194ib-194i-194ia-property-purchase-1-percent-nri-landlord.html": ["gstrent", "hra26", "tdsret", "tdschart"],
-    "is-gst-registration-mandatory-for-startup-new-small-business-threshold-2026.html": ["gstrent", "propreg", "gstcomp", "gstcancel", "gstreturn", "gstregrej", "gstconsultant", "ecomseller", "gstupinotice", "gstconsultants"],
+    "is-gst-registration-mandatory-for-startup-new-small-business-threshold-2026.html": ["gstrent", "propreg", "gstcomp", "gstcancel", "gstreturn", "gstregrej", "gstconsultant", "ecomseller", "gstupinotice", "gstconsultants", "usedcargst"],
     "nri-property-management-india-from-abroad-power-of-attorney-rent-tds-itr-repatriation-2026.html": ["tdsrent", "hpinc"],
     "income-tax-act-2025-section-mapping-old-vs-new-54-is-82-80c-is-123-nri.html": ["tdsrent"],
     "form-10ba-house-rent-self-certification-section-80gg.html": ["tdsrent", "hra26"],
